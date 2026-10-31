@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+ollama>=0.4.7,<1
+pydantic>=2,<3
+Pillow>=10,<13
+tenacity>=8,<10
+pytest>=8,<10
+
